@@ -1,5 +1,6 @@
-- Link: https://www.figma.com/design/t35T0bbJGqqTmm5udETTx6/SmartUse%5BCompleted%5D?node-id=0-1&t=jiCsQHZ2XpaLhRUV-1
-- Prototype Link: https://www.figma.com/proto/t35T0bbJGqqTmm5udETTx6/SmartUse%5BCompleted%5D?node-id=0-1&t=jiCsQHZ2XpaLhRUV-1
+# LINKS
+- Figma View: https://www.figma.com/design/t35T0bbJGqqTmm5udETTx6/SmartUse%5BCompleted%5D?node-id=0-1&t=jiCsQHZ2XpaLhRUV-1
+- Prototype: https://www.figma.com/proto/t35T0bbJGqqTmm5udETTx6/SmartUse%5BCompleted%5D?node-id=0-1&t=jiCsQHZ2XpaLhRUV-1
 
 # Preview
 
