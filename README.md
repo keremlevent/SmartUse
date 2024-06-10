@@ -1,6 +1,6 @@
 # Preview
 
-![Uploading Home.png…]()
+![Home](https://github.com/keremlevent/SmartUse/assets/92311846/7690f90e-9dec-4b0e-bf16-0d8b2423ec64)
 
 ![Chatbot4](https://github.com/keremlevent/SmartUse/assets/92311846/7fdc8c30-b44a-43d4-b533-9e0dedd352ca)
 
