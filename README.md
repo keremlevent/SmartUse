@@ -1,3 +1,6 @@
+Link: https://www.figma.com/design/t35T0bbJGqqTmm5udETTx6/SmartUse%5BCompleted%5D?node-id=0-1&t=jiCsQHZ2XpaLhRUV-1
+Prototype Link: https://www.figma.com/proto/t35T0bbJGqqTmm5udETTx6/SmartUse%5BCompleted%5D?node-id=0-1&t=jiCsQHZ2XpaLhRUV-1
+
 # Preview
 
 ![Home](https://github.com/keremlevent/SmartUse/assets/92311846/7690f90e-9dec-4b0e-bf16-0d8b2423ec64)
